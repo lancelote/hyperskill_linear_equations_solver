@@ -1,2 +1,5 @@
 # IntelliJ IDEA settings
 .idea/
+
+# Compiled code
+out/
